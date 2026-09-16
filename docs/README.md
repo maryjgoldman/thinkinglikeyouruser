@@ -24,7 +24,7 @@ There is no one agreed-upon definition of UX, but a useful one is: UX is design 
 
 UX is a research-backed method to improve the usability of software, including scientific software. In traditional software spaces, UX is a well-recognized, core engineering practice, complete with university-level degrees, teams/departments within companies, career ladders, and more. [UX is proven to reduce development time, reduce user support needs, reduce needed documentation, and get more users.](https://frankspillers.com/making-a-strong-business-case-for-the-roi-of-ux-infographic/)&#x20;
 
-### Key components of UX:&#x20;
+## Key components of UX
 
 **1. Think like your user.** Except in very unusual circumstances, you are not your user. Even if their background is somewhat similar to yours, your user doesn't have your exact knowledge, skill set, or experience. Thinking like your user starts with understanding what makes folks want to use your tool. What does it do that they need?&#x20;
 
