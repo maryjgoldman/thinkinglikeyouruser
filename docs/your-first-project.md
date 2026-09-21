@@ -4,7 +4,7 @@ description: The steps below lead you through your first UX project
 
 # Your first project
 
-It is worth nothing that it can be helpful to get feedback before you begin. A great way to get feedback from other UX folks at any and all parts of this process is to [join online professional communities](support-yourself.md#join-online-professional-communities), especially when you are just starting out.
+It is worth nothing that it can be helpful to get feedback before you begin. A great way to get feedback from other UX folks at any and all parts of this process is to [join online professional communities](support-yourself.md#join-online-professional-communities), especially when you are starting out.
 
 ## 1. Pick your project
 
