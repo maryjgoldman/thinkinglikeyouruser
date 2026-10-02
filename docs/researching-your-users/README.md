@@ -18,13 +18,13 @@ When researching your users, keep in mind who you are interacting with and how t
 
 If you talked to a user, write down everything you can remember immediately afterward. Document where you were, when, who the person was, and what they said or general impressions. Remember to keep identities anonymous, especially if you made a recording. For all methods, write down what you observed, your thoughts, and your conclusions. Documenting this is important since your memory is not infallible and it is useful to have as a reference when making your designs and communicating about them.
 
-Remember that you don't necessarily have to do whatever your user asks you to do. While your user will give you ideas of how to enhance your tool, you should not necessarily do what they ask. It is common that a requested feature is actually a workaround for some other part of the tool that is poorly designed. Take time to truly understand why they are asking for a feature to help you to decide if you should develop it or not.&#x20;
+Remember that while your user will give you ideas of how to enhance your tool, you should not necessarily do what they ask. It is common that a requested feature is actually a workaround for some other part of the tool that is poorly designed. Take time to truly understand why they are asking for a feature to help you to decide if you should develop it or not.&#x20;
 
 ### Consider other project priorities
 
 It is important to weigh your findings in the context of other project priorities. For instance, typically you want a user to go through an application as quickly as possible. However, it may be good to slow a user down in some cases, such as if you need them to think about the implications of an analysis before running it. It is also important to think about development time and the goals of your grant and/or funding agency and how the feedback fits in with them. This is a great time to go back to your [value proposition](../thinking-like-your-user.md#value-proposition-statement) and consider how the data you've collected is informed by it.
 
-#### Navigating Out-of-Scope & Uncomfortable Feedback
+#### Navigating out-of-scope & uncomfortable feedback
 
 Inevitably you will hear uncomfortable feedback from your users. Sometimes you want to implement a great feature, but it is out of scope for your tool and/or your funding source. Maybe you learn of a feature or design that you know would make the interface more usable, but there is simply no funding to develop it. Maybe you learn from your users that a cherished feature is not something they use at all, or worse, the main goal of your tool is not something that they need. Maybe they're using your tool for something completely different than what it was intended for. These scenarios are, unfortunately, common and it can be difficult to hear.
 

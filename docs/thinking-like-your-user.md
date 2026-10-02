@@ -2,7 +2,7 @@
 
 It is important to remember that your user is different from you. These differences are in your background, your skillset, and your goals. Understand these differences and use them to help shape the interface for your tool.
 
-## Value Proposition Statement
+## Value proposition statement
 
 The most important question you will answer is what your tool does and why someone would want to use it. This is another way to think about your user, but from the perspective of your tool. Think about and write out: What is it that your tool does? Why do people want to use it? A Value Proposition Statement is just a few sentences that you can think of as a sales pitch you would give to a potential user who asks about your tool. Note that this is not a list of features; it's a problem that your tool solves.
 
@@ -30,7 +30,7 @@ Take a look at the questions below and write out some of your answers in a docum
 * Will they be sharing results with coworkers/PIs/etc? Who are they? What is the best way to share results with them?
 * When are the users going to use my tool? At the beginning, middle, or end of a project?&#x20;
 * How long will it take to run my tool? Are there any time constraints?
-* Think about the user's social networks, broader career, professional goals, and personal goals. Will they tweet/post about your tool? Are they far along in their career or just getting started? Will they teach about your tool? Will they need to easily leave and come back to your tool?
+* Think about the user's social networks, broader career, professional goals, and personal goals. Will they tweet/post about my tool? Are they far along in their career or just getting started? Will they teach about my tool? Will they need to easily leave and come back to my tool?
 
 ## Create personas/archetypes
 
@@ -40,6 +40,6 @@ When making personas, focus on the constraints, motives, and needs that affect t
 
 You may be able to find personas/archetypes that other folks have made. They may be for your exact target user or a user who is similar to yours that you can then modify. In any case, it's worth looking to see what might be out there.&#x20;
 
-NN/G is a resource to get you started with Lightweight personas: [3 Persona Types: Lightweight, Qualitative, and Statistical - NN/G](https://www.nngroup.com/articles/persona-types/)&#x20;
+NN/G is a resource to get you started with lightweight personas: [3 Persona Types: Lightweight, Qualitative, and Statistical - NN/G](https://www.nngroup.com/articles/persona-types/)&#x20;
 
 Remember: update your personas as you [research your users](researching-your-users/).

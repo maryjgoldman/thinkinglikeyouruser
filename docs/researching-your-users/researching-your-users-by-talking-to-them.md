@@ -9,7 +9,7 @@ Remember that users are generally happy to talk to you. The tool you are buildin
 * It is useful to ask not only about your tool but also about what they do now without your tool or even with your competitors. This will help you to understand their pain points in general.
 * Don't ask users if they like your idea, design, etc. Users will inevitably say they do, even if they wouldn't use your tool in real life.
 * Don't ask leading questions. If you ask 'Would you rather use the old version or this improved version of the website?' users will inevitably say they want the new version when really they would prefer the older version. Asking non-leading questions is a skill that can take some time to develop.
-* Ask open-ended questions. To get the most out of the interview, focus on questions that can not be answered with only a 'yes' or 'no'. If you find most of your questions are yes/no questions, a [survey](researching-your-users-without-talking-to-them.md#surveys) may be a better option.
+* Ask open-ended questions. To get the most out of the interview, focus on questions that cannot be answered with only a 'yes' or 'no'. If you find most of your questions are yes/no questions, a [survey](researching-your-users-without-talking-to-them.md#surveys) may be a better option.
 * Note the language and terminology they use when talking about the data, tool, etc. Developers often have different words for data and concepts than the users of a tool. For instance, developers might call it metadata, while users call it clinical data. Note the terminology they use so that you can use it in your tool's UI.
 * While you can talk about your tool and what it does, postpone this as far into the conversation as you can. You can talk about your tool abstractly at first and then in more detail later on in the conversation. This will help prevent biasing your feedback.&#x20;
 * Remember that if they ask for a feature, your job is to understand why they are asking for the feature and what they're hoping to accomplish with it. While you may end up implementing the feature they request, you may also end up realizing that their issue could be better solved with a different feature that they haven't requested.
@@ -37,7 +37,7 @@ I recommend asking to meet for an hour, but even as little as 20 min can be help
 Don't worry about getting a lot of folks to talk to. Talking to even one person is better than talking to no users. Ideally, you would speak to 3-5 users since [speaking to more than 5 users has diminishing returns](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 
 {% hint style="info" %}
-AI note (August 2026): AI can help you transcribe a zoom meeting afterwards but ensure that you are using a model that isn't learning from your data so that you preserve user confidentiality.&#x20;
+AI note (August 2026): AI can help you transcribe a Zoom meeting afterwards but ensure that you are using a model that isn't learning from your data so that you preserve user confidentiality.&#x20;
 {% endhint %}
 
 Watching users use the tool or a design can give you important feedback on not only minor things such as colors, button placement, etc, but also on big things like their thought process and their workflow.
@@ -47,7 +47,7 @@ Watching users use the tool or a design can give you important feedback on not o
 * It may be very painful to watch someone use the interface and not be able to help them. If they have been stuck for a few minutes or if it is one of the first tasks (and hence if they don't make it through this they won't make it to any of the other testing), you can offer a small hint. Otherwise, refrain from helping them.
 * Memorize a few sentences like 'tell me more about that' to get folks to start talking again in a way that doesn't bias your user if they get quiet.
 
-Here are some great resources interviewing folks for scientific software:
+Here are some great resources for interviewing folks for scientific software:
 
 * [User testing on a shoestring](https://www.readwriterachel.com/opinions/hacks/presentations/2026/08/26/usertesting-on-a-shoestring.html)&#x20;
 * [Rapid usability testing workshop](https://carpentries-incubator.github.io/rapid-usability-tutorial/)

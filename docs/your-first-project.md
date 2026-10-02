@@ -4,11 +4,11 @@ description: The steps below lead you through your first UX project
 
 # Your first project
 
-It is worth nothing that it can be helpful to get feedback before you begin. A great way to get feedback from other UX folks at any and all parts of this process is to [join online professional communities](support-yourself.md#join-online-professional-communities), especially when you are starting out.
+It is worth noting that it can be helpful to get feedback before you begin. A great way to get feedback from other UX folks at any and all parts of this process is to [join online professional communities](support-yourself.md#join-online-professional-communities), especially when you are starting out.
 
 ## 1. Pick your project
 
-Pick a project that is small in scope, where your proposed changes will be an obvious win. Don't  pick the main function of the tool, since this is where you are likely to get the most push-back. Don't pick the front page unless what you are proposing is an obvious fix (see [Basic Visual Design and Design Systems](evaluating-where-you-are.md#basic-visual-design-and-design-systems)).&#x20;
+Pick a project that is small in scope, where your proposed changes will be an obvious win. Don't pick the main function of the tool, since this is where you are likely to get the most push-back. Don't pick the front page unless what you are proposing is an obvious fix (see [Basic Visual Design and Design Systems](evaluating-where-you-are.md#basic-visual-design-and-design-systems)).&#x20;
 
 Ideally you want to pick a project where there is a metric you can measure to show the impact of your change (i.e. the number of users completing a certain analysis). It is possible that the change you're proposing is too small to have a measurable impact or your tool is not yet public, but it's still good to think about this.
 
@@ -36,7 +36,7 @@ Keeping in mind what you learned from your UX method, make a design. Depending o
 
 ## 7. Follow up
 
-[Make a mini case study ](bringing-ux-to-your-organization.md#mini-case-studies)to document what you did and any outcomes. Consider whether there is a conference, lab meeting, lunch series, or grant report where you can present your work.
+[Make a mini case study](bringing-ux-to-your-organization.md#mini-case-studies) to document what you did and any outcomes. Consider whether there is a conference, lab meeting, lunch series, or grant report where you can present your work.
 
 ## Example first projects
 
@@ -62,10 +62,10 @@ A graduate student developed a new tool and asked for feedback from me before th
 
 ### Redundant documentation&#x20;
 
-I was working on a tool where documentation was embedded in the tool across several different pages and was pulled into the tool interface depending on the type of data being viewed. Unfortunately, much of the documentation was redundant, a state that had been reached because of confusion on when it was pulled into the interface.
+I was working on a tool where documentation was embedded in the tool across several different pages and was pulled into the tool interface depending on the type of data being viewed. Unfortunately, much of the documentation was redundant, a state that had been reached because of confusion about when it was pulled into the interface.
 
 **Method used:** [Content overview](evaluating-where-you-are.md#content-overview) on just the documentation that was being pulled for different types of data. I didn't spend as much time thinking like the user for this project, since it was so obviously confusing to the user.
 
-**Outcome:** Reduced documentation redundancy. No metrics were measured
+**Outcome:** Reduced documentation redundancy. No metrics were measured.
 
 **Organization logistics:** I pitched it as a project by saying that it would make it easier for developers and content managers to keep track of documentation, reducing work for our team.

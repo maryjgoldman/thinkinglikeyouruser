@@ -1,6 +1,6 @@
 # Documentation and marketing
 
-While _Thinking Like Your User_ focuses on the tool's interface, two other key aspects are crucial for overall usability
+While _Thinking Like Your User_ focuses on the tool's interface, two other key aspects are crucial for overall usability.
 
 ## Documentation
 

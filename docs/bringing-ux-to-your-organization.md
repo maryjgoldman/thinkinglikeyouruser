@@ -1,6 +1,6 @@
 # Bringing UX to your organization
 
-UX is often a core value of a company in industry because enhancing product usability directly results in more users and better sales. Scientific software, in contrast, is typically funded through grants from federal, state, or even corporate institutions. These funding bodies want software that solves cutting-edge problems using innovative techniques. Consequently, superior usability does not automatically yield additional financial support and thus has less priority over other objectives.&#x20;
+UX is often a core value of a company in industry because enhancing product usability directly results in more users and better sales. Scientific software, in contrast, is typically funded through grants from federal, state, or even corporate institutions. These funding bodies want software that solves cutting-edge problems using innovative techniques. Consequently, superior usability does not automatically yield additional financial support and thus has lower priority compared to other objectives.&#x20;
 
 Despite the lack of priority, it is still often possible to do UX. Scientific software developers operating within academic or governmental institutions often enjoy greater latitude to experiment with novel approaches. It is often best to proceed proactively—favoring action and seeking forgiveness over awaiting explicit permission.&#x20;
 
@@ -10,7 +10,7 @@ For both people and funding organizations, the most important thing is to unders
 
 Some arguments that may help you to make your case:
 
-* UX is proven to reduce development time, reduce user support needs, reduce needed documentation, and more users (which you can show to funding agencies). [This infographic has citations of studies showing the power of UX.](https://frankspillers.com/making-a-strong-business-case-for-the-roi-of-ux-infographic/)
+* UX is proven to reduce development time, reduce user support needs, reduce needed documentation, and attract more users (which you can show to funding agencies). [This infographic has citations of studies showing the power of UX.](https://frankspillers.com/making-a-strong-business-case-for-the-roi-of-ux-infographic/)
 * A great looking front page that clearly shows what the tool is for and how a user would start with a tool can help persuade funding agencies to fund a tool.&#x20;
 * UX is innovative in the scientific software field. Very few scientific software organizations do UX, which makes this work unique.&#x20;
 
@@ -21,7 +21,7 @@ The good thing about UX not being widely practiced in scientific software is tha
 Some example papers that have been published include:
 
 * [Rose, et al. 2026 Understanding the Needs and Challenges of Cancer Registry Stakeholders.](https://ascopubs.org/doi/10.1200/CCI-25-00168)
-* [Paine et al. 2019 Experiences with a Flexible User Research Process to Build Data Change Tools](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.284)
+* [Paine, et al. 2019 Experiences with a Flexible User Research Process to Build Data Change Tools](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.284)
 
 Some good journals to target are:&#x20;
 
@@ -52,8 +52,8 @@ Focusing on just the aesthetics limits the impact of your work. UX involves unde
 
 In the end it's less expensive and takes less time to do it right from the beginning rather than fix it later down the road. View UX as a preventative measure or an investment that saves you time and work later.
 
-## Mini Case Studies
+## Mini case studies
 
-Developing mini case studies are a great way to keep track of what you've done, for your manager, your funding agency, and also for yourself. Document what was it before, what did you do, what was the outcome, and what was the impact of your work. Note interesting things you learned. Offer to share the document with your manager so that they can use it for grant reports and other places.&#x20;
+Developing mini case studies is a great way to keep track of what you've done, for your manager, your funding agency, and also for yourself. Document what it was before, what did you do, what was the outcome, and what was the impact of your work. Note interesting things you learned. Offer to share the document with your manager so that they can use it for grant reports and other places.&#x20;
 
-You may decide to do a lunch presentation or similar on your mini use case so that others in your group can see how UX works and how they might also apply UX methods. This is also a great way to get more folks to join [your UX group](support-yourself.md#start-a-group).
+You may decide to do a lunch presentation or similar on your mini case study so that others in your group can see how UX works and how they might also apply UX methods. This is also a great way to get more folks to join [your UX group](support-yourself.md#start-a-group).

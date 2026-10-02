@@ -26,7 +26,7 @@ UX is a research-backed method to improve the usability of software, including s
 
 ## Key components of UX
 
-**1. Think like your user.** Except in very unusual circumstances, you are not your user. Even if their background is somewhat similar to yours, your user doesn't have your exact knowledge, skill set, or experience. Thinking like your user starts with understanding what makes folks want to use your tool. What does it do that they need?&#x20;
+**1. Think like your user.** Except in very unusual circumstances, you are not your user. Even if their background is somewhat similar to yours, your user doesn't have your exact knowledge, skillset, or experience. Thinking like your user starts with understanding what makes folks want to use your tool. What does it do that they need?&#x20;
 
 **2. Evaluate your tool.** Take your users' perspective and bring it to your tool. Try to see the tool through their eyes. Understand where your tool functions well and where it could be improved.
 

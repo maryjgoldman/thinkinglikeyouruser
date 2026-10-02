@@ -8,7 +8,7 @@
 * [Researching your users](researching-your-users/README.md)
   * [Researching your users without talking to them](researching-your-users/researching-your-users-without-talking-to-them.md)
   * [Researching your users by talking to them](researching-your-users/researching-your-users-by-talking-to-them.md)
-* [Making a Design](making-a-design.md)
+* [Making a design](making-a-design.md)
 * [Documentation and marketing](documentation-and-marketing.md)
 * [Bringing UX to your organization](bringing-ux-to-your-organization.md)
 * [Support yourself](support-yourself.md)
