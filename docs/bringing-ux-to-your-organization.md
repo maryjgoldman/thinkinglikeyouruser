@@ -26,7 +26,7 @@ Some example papers that have been published include:
 Some good journals to target are:&#x20;
 
 * [F1000](https://f1000research.com/)
-* [Computing in Science and Engineering](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.284)
+* [Computing in Science and Engineering](https://www.computer.org/csdl/magazine/cs)
 
 Presenting at a conference is also a great way to show your manager and your funding agency what you are doing. Submit an abstract for a talk or poster about a UX project you did, even if it is small, to a conference like US-RSE. Apply for travel funds if needed.&#x20;
 

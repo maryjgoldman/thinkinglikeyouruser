@@ -18,11 +18,11 @@ You may find that your first project is actually one that you were already going
 
 Go through the rest of this page and outline a plan. Hopefully you picked a project small enough that you won't need to ask for permission, but you may still have to. Plan for how you will do this and [pitch your idea](bringing-ux-to-your-organization.md#advocating-for-ux).
 
-Lastly, ensure you have a way to [measure metrics](researching-your-users/) on your tool if you don't already have them so that you can show the impact of your work.&#x20;
+Lastly, ensure you have a way to [measure metrics](researching-your-users/researching-your-users-without-talking-to-them.md#usage-metrics) on your tool if you don't already have them so that you can show the impact of your work.&#x20;
 
-## 3. [Think like your user](./)
+## 3. [Think like your user](thinking-like-your-user.md)
 
-No matter your project, always start with a \[value proposition statement] for the whole tool. Then think like your user by [writing about your user](thinking-like-your-user.md#write-about-your-user) or [creating personas/archetypes](thinking-like-your-user.md#create-personas-archetypes). For subsequent projects you can reference or refine these materials to center yourself rather than create them.&#x20;
+No matter your project, always start with a [value proposition statement](thinking-like-your-user.md#value-proposition-statement) for the whole tool. Then think like your user by [writing about your user](thinking-like-your-user.md#write-about-your-user) or [creating personas/archetypes](thinking-like-your-user.md#create-personas-archetypes). For subsequent projects you can reference or refine these materials to center yourself rather than create them.&#x20;
 
 ## 4. Do a UX method
 
