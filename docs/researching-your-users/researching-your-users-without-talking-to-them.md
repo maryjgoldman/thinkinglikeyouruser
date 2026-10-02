@@ -10,7 +10,7 @@ Usage metrics are also important for showing the impact of any change that you m
 
 ## Support ticket systems
 
-Going through support ticket systems, such as Github or Jira, is a great way to see what users are thinking. Look for tickets that were made in response to user feedback. Remember that you're not necessarily going to implement the feature that they request. Instead, try to understand from the context why they are asking for a feature. If you are able, reach out to them and [talk to them](researching-your-users-by-talking-to-them.md).
+Going through support ticket systems, such as GitHub or Jira, is a great way to see what users are thinking. Look for tickets that were made in response to user feedback. Remember that you're not necessarily going to implement the feature that they request. Instead, try to understand from the context why they are asking for a feature. If you are able, reach out to them and [talk to them](researching-your-users-by-talking-to-them.md).
 
 ## Public forums
 
@@ -18,7 +18,7 @@ Public forums are places to get use cases from your target users and help you to
 
 ## Mailing lists and tool-specific forums
 
-Mailing lists or tool-specific forums are another place to get use cases from your target users. Every reply to a user is a place to ask for information about why they are trying to do what they are doing and ask more about how your tool fits in with their research. This is another reason why it is useful to have a way for your users to contact you, especially one that your target users will use. For instance, if your users are not familiar with the command line, Github will be unlikely to be used as a place for feedback. Your mailing list or forum is also a great way to [find folks to meet with](researching-your-users-by-talking-to-them.md).
+Mailing lists or tool-specific forums are another place to get use cases from your target users. Every reply to a user is a place to ask for information about why they are trying to do what they are doing and ask more about how your tool fits in with their research. This is another reason why it is useful to have a way for your users to contact you, especially one that your target users will use. For instance, if your users are not familiar with the command line, they are unlikely to use GitHub to give feedback. Your mailing list or forum is also a great way to [find folks to meet with](researching-your-users-by-talking-to-them.md).
 
 {% hint style="info" %}
 AI note (August 2026): A side effect of AI is that, for many tools, users are not using forums and mailing lists as frequently. When users have a question, they ask AI rather than asking a person. This has made forums and mailing lists less useful for understanding and thinking about your user.

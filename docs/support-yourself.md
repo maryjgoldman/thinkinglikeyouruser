@@ -2,7 +2,7 @@
 
 ## Remember that you're not alone
 
-While it may feel like you're the only person who cares about usability in your group, you are not alone. Other people, both at your organization and in the wider community, have your same interests and concerns. Finding, creating, or joining these communities will help you to feel less isolated and to grow your skills. Crucially, these people can also help you with many of the methods mentioned in Thinking Like Your User, such as brainstorming designs. The UX community is welcoming, with many folks outside your organization that would be happy to work with you and provide feedback.
+While it may feel like you're the only person who cares about usability in your group, you are not alone. Other people, both at your organization and in the wider community, have your same interests and concerns. Finding, creating, or joining these communities will help you to feel less isolated and to grow your skills. Crucially, these people can also help you with many of the methods mentioned in _Thinking Like Your User_, such as brainstorming designs. The UX community is welcoming, with many folks outside your organization who would be happy to work with you and provide feedback.
 
 ### Find like-minded folks at your organization
 
@@ -20,7 +20,7 @@ Starting a group is a great way to find other folks who are interested in UX or 
 
 ## Learn more
 
-Your organization likely has free or cheap access to many educational resources, ranging from classes at a university, to MOOCs such as those at Khan academy, Coursera, or LinkedIn Learning. Check to see if any of these have courses on UX or related fields that look interesting to you. Keep in mind that there are many variations on the field of UX, each with a slightly different emphasis, including User-Centered Design (UCD), Interaction Design (IxD), and Service Design.
+Your organization likely has free or cheap access to many educational resources, ranging from classes at a university to MOOCs such as those at Khan Academy, Coursera, or LinkedIn Learning. Check to see if any of these have courses on UX or related fields that look interesting to you. Keep in mind that there are many variations on the field of UX, each with a slightly different emphasis, including User-Centered Design (UCD), Interaction Design (IxD), and Service Design.
 
 In addition to these more formal educational resources, there are many online resources out there for UX in general and even some that are specifically for scientific software. [Here is a list of ones the US-RSE UX working group has gathered.](https://docs.google.com/document/d/1MvmpHb6rdTmOAIhJMSupItJAbVWGr3FeObkWUqETV54/edit?tab=t.0)&#x20;
 

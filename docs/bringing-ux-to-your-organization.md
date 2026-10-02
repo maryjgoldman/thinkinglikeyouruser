@@ -42,7 +42,7 @@ Point out the ways in which your user is different from folks in your organizati
 
 #### 'We already do surveys'
 
-While surveys are a good start they are necessarily limited in what they can show. Users don't talk about why they answered a survey question a certain way, making it easy to misinterpret findings and difficult to know how to improve an interface.
+While surveys are a good start, they are necessarily limited in what they can show. Users don't talk about why they answered a survey question a certain way, making it easy to misinterpret findings and difficult to know how to improve an interface.
 
 #### 'Just make the UI look better'
 
@@ -54,6 +54,6 @@ In the end it's less expensive and takes less time to do it right from the begin
 
 ## Mini case studies
 
-Developing mini case studies is a great way to keep track of what you've done, for your manager, your funding agency, and also for yourself. Document what it was before, what did you do, what was the outcome, and what was the impact of your work. Note interesting things you learned. Offer to share the document with your manager so that they can use it for grant reports and other places.&#x20;
+Developing mini case studies is a great way to keep track of what you've done, for your manager, your funding agency, and also for yourself. Document what it was before, what did you do, what was the outcome, and what impact your work had. Note interesting things you learned. Offer to share the document with your manager so that they can use it for grant reports and other places.&#x20;
 
 You may decide to do a lunch presentation or similar on your mini case study so that others in your group can see how UX works and how they might also apply UX methods. This is also a great way to get more folks to join [your UX group](support-yourself.md#start-a-group).

@@ -4,7 +4,7 @@ Now that you have thought about your user, you can adopt their perspective as yo
 
 ## Content overview
 
-A Content overview involves using a spreadsheet or document to map out where documentation or text appears in the interface. Use this process to identify redundancy and flag potential mismatches in language, labeling, hierarchy, and priority. Consider what information your user needs and the most logical sequence in which to present it. Avoid overwhelming users with details until they need them. While reviewing an entire interface can be time-consuming, focusing on a small section makes the task manageable.
+A content overview involves using a spreadsheet or document to map out where documentation or text appears in the interface. Use this process to identify redundancy and flag potential mismatches in language, labeling, hierarchy, and priority. Consider what information your user needs and the most logical sequence in which to present it. Avoid overwhelming users with details until they need them. While reviewing an entire interface can be time-consuming, focusing on a small section makes the task manageable.
 
 ## Heuristic evaluation
 

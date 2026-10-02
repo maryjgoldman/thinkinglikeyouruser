@@ -6,7 +6,7 @@ description: >-
 
 # Thinking Like Your User
 
-You are a busy developer with little time and few resources but you still want your tool to be intuitive for researchers and scientists who will use it to advance their field.
+You are a busy developer with little time and few resources, but you still want your tool to be intuitive for researchers and scientists who will use it to advance their field.
 
 You may never have heard of User Experience Design, or if you have, you might worry that it will take too much time or resources. Or maybe you are interested in User Experience Design but you're not sure where to start or how to convince your organization to let you do it.
 

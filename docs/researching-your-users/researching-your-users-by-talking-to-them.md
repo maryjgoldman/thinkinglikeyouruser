@@ -37,7 +37,7 @@ I recommend asking to meet for an hour, but even as little as 20 min can be help
 Don't worry about getting a lot of folks to talk to. Talking to even one person is better than talking to no users. Ideally, you would speak to 3-5 users since [speaking to more than 5 users has diminishing returns](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/).
 
 {% hint style="info" %}
-AI note (August 2026): AI can help you transcribe a Zoom meeting afterwards but ensure that you are using a model that isn't learning from your data so that you preserve user confidentiality.&#x20;
+AI note (August 2026): AI can help you transcribe a Zoom meeting afterwards, but ensure that you are using a model that isn't learning from your data so that you preserve user confidentiality.&#x20;
 {% endhint %}
 
 Watching users use the tool or a design can give you important feedback on not only minor things such as colors, button placement, etc, but also on big things like their thought process and their workflow.
