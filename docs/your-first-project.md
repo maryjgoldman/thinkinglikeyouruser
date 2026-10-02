@@ -1,5 +1,5 @@
 ---
-description: The steps below lead you through your first UX project
+description: The steps below lead you through your first UX project.
 ---
 
 # Your first project
@@ -10,7 +10,7 @@ It is worth noting that it can be helpful to get feedback before you begin. A gr
 
 Pick a project that is small in scope, where your proposed changes will be an obvious win. Don't pick the main function of the tool, since this is where you are likely to get the most push-back. Don't pick the front page unless what you are proposing is an obvious fix (see [Basic Visual Design and Design Systems](evaluating-where-you-are.md#basic-visual-design-and-design-systems)).&#x20;
 
-Ideally you want to pick a project where there is a metric you can measure to show the impact of your change (i.e. the number of users completing a certain analysis). It is possible that the change you're proposing is too small to have a measurable impact or your tool is not yet public, but it's still good to think about this.
+Ideally you want to pick a project where there is a metric you can measure to show the impact of your change (e.g. the number of users completing a certain analysis). It is possible that the change you're proposing is too small to have a measurable impact or your tool is not yet public, but it's still good to think about this.
 
 You may find that your first project is actually one that you were already going to do, but you are now going to approach it from a thinking like your user mindset.
 
@@ -46,7 +46,7 @@ I started working on a new tool where the home page was a block of text with no 
 
 **Method used:** [Basic Visual Design and Design Systems.](evaluating-where-you-are.md#basic-visual-design-and-design-systems) I focused on rearranging what was already on the screen, with almost no new text or buttons. I moved the data input section up and added some header text to draw attention to it. I also added some visual hierarchy using headers. There was a lot more that I could have proposed, but I kept the refinements simple and easy to understand. Remember: something is better than nothing.
 
-**Outcome:** I didn't have metrics set up when I did this project, but metrics you could imagine measuring are a) how many users who go to the front page upload data, especially for new users or b) how long does it take between users arriving and uploading data, especially for new users
+**Outcome:** I didn't have metrics set up when I did this project, but metrics you could imagine measuring are a) how many users who go to the front page upload data, especially for new users, or b) how long is it between users arriving and uploading data.
 
 **Organization logistics:** I did not ask permission and did the design quickly. I presented it to the group as a single image as part of a larger meeting. Later the team decided to implement it as is.
 

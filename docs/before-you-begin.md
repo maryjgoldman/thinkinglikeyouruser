@@ -4,7 +4,7 @@
 * This resource is neither comprehensive nor thorough. It only covers a few methods that can be done quickly with little training.&#x20;
 * The goal of _Thinking Like Your User_ is to help you to create a great interface for your tool using widespread, common conventions. This resource is not designed to help you to create an innovative or ground-breaking interface for your tool.&#x20;
 * Don't expect your first projects to be big and impressive, especially as your time and resources are limited. UX is an iterative process where small improvements gradually lead to bigger changes.
-* The hope is that _Thinking like your user_ will change your development mindset. Ultimately, thinking like your user will change your approach to making scientific software.
+* The hope is that _Thinking Like Your User_ will change your development mindset. Ultimately, _Thinking Like Your User_ will change your approach to making scientific software.
 
 ## Things to keep in mind
 
