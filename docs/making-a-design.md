@@ -14,7 +14,7 @@ For your first design, choose tools you already know. These might include presen
 
 Paper prototypes are another historically popular low-fidelity medium, which typically have a quick, scribbled look. Some designers prefer paper prototypes because tactile work can boost brainstorming. However, others find it inconvenient that they cannot be saved or shared digitally without scanning them first. Choose whichever medium works best for you.
 
-## Make (multiple) designs
+## Make multiple designs
 
 Your first idea is rarely your best idea. Although it can be hard to look past an initial concept, forcing yourself to explore alternatives will help you come to the strongest solution. Ideally, collaborate with others and spend at least twice as much time developing alternate ideas as you did on the original design. You may find it useful to leverage established interface pattern libraries for scientific software, such as [STRUDEL](https://strudel.science/), which features design best practices and reusable software components.
 
