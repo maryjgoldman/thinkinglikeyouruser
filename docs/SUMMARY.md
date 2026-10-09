@@ -12,3 +12,4 @@
 * [Documentation and marketing](documentation-and-marketing.md)
 * [Bringing UX to your organization](bringing-ux-to-your-organization.md)
 * [Support yourself](support-yourself.md)
+* [Acknowledgements](acknowledgements.md)
